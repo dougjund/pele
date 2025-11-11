@@ -7,7 +7,7 @@ cursos = [
   {
     "curso": "Harmonização Corporal com Glúteo",
     "data": "03/12/2025",
-    "link": "https://www.even3.com.br/harmonizacao-corporal-com-gluteo-651624",
+    "link": "https://eventos.peleinstituto.com.br/harmonizacao-corporal-com-gluteo-651624",
     "sobre": "O Curso de Harmonização Corporal com Glúteo é uma imersão 100% prática e intensiva voltada para profissionais que desejam dominar protocolos avançados de definição corporal, lifting e volumização glútea.\nDurante o curso, os participantes aprenderão a montar protocolos completos e personalizados, associando ácido hialurônico corporal, bioestimuladores, fios de PDO, técnicas para flacidez, subcisão e tratamentos para celulite, além de estratégias de definição e modelagem corporal.\n\nCom prática em 100% pacientes modelos, o curso proporciona experiência real e segurança técnica para aplicação clínica imediata.",
     "conteudo": "▪️ Harmonização do Glúteo\n▪️ Técnica Avançada de Volumização com Ácido Hialurônico Corporal (Liberado pela ANVISA)\n▪️ Técnicas e Ativos para Flacidez Muscular e Tissular\n▪️ Tipos de Bioestimuladores\n▪️ Técnicas com Fios de PDO\n▪️ Hipertrofia e Definição Muscular\n▪️ Técnica Exclusiva para Subcisão e Celulites\n▪️ EMPTIERS para Gordura Localizada Corporal\n▪️ Técnica Exclusiva para Realizar Massagem de Acordo com o Procedimento\n▪️ Montagem de Protocolos e Associações para Resultados\n▪️ Montagem de Mesclas e Principais Ativos\n▪️ Tratamento e Prevenção de Intercorrências",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On (pacientes modelos)",
@@ -22,7 +22,7 @@ cursos = [
   {
     "curso": "Harmonização Glútea",
     "data": "04/12/2025",
-    "link": "https://www.even3.com.br/harmonizacao-glutea-644699",
+    "link": "https://eventos.peleinstituto.com.br/harmonizacao-glutea-644699",
     "sobre": "",
     "conteudo": "Anatomia glútea aplicada à estética\n\nAvaliação e identificação do perfil ideal de tratamento\n\nTécnicas para volumização e projeção\n\nAplicação de bioestimuladores (CaHA, PLLA, peptídeos)\n\nSubcisão e tratamento de celulite e fibroses\n\nAtivos para definição e hipertrofia estética (hexapeptídeos, aminoácidos e creatina)\n\nTécnicas para flacidez e firmeza da pele\n\nDiluições, combinações e cronograma de aplicação\n\nProtocolo Power Glúteo\n\nPrática em paciente modelo (hands-on)",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On (pacientes modelos)",
@@ -37,7 +37,7 @@ cursos = [
   {
     "curso": "Curso Full Face",
     "data": "05/12/2025",
-    "link": "https://www.even3.com.br/preenchimento-facial-644563",
+    "link": "https://eventos.peleinstituto.com.br/preenchimento-facial-644563",
     "sobre": "O Curso Full Face é uma imersão completa em harmonização facial, combinando técnicas de preenchimento com ácido hialurônico e toxina botulínica.\n\nIdeal para profissionais que desejam dominar a estética facial de forma global, aprendendo a equilibrar proporções, suavizar rugas, realçar a beleza natural e oferecer resultados seguros e sofisticados.\n\nDurante o curso, o aluno vivenciará 100% prática em pacientes modelos, compreendendo anatomia, protocolos e técnicas para resultados naturais.",
     "conteudo": " Preenchimentos Faciais (Ácido Hialurônico)\n\n    Malar\n\n    Mandíbula\n\n    Queixo\n\n    Olheiras\n\n    Têmporas\n\n    Harmonização do contorno facial\n\n    Preenchimento labial\n\n    ▪ Definição do contorno\n    ▪ Volume equilibrado com o rosto",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -52,7 +52,7 @@ cursos = [
   {
     "curso": "Curso Rinomodelação",
     "data": "06/12/2025",
-    "link": "https://www.even3.com.br/curso-rinomodelacao-651191",
+    "link": "https://eventos.peleinstituto.com.br/curso-rinomodelacao-651191",
     "sobre": "O Curso de Rinomodelação Não Cirúrgica é uma imersão completa que ensina técnicas avançadas de harmonização nasal com ácido hialurônico, permitindo aos profissionais realizar procedimentos seguros, precisos e com resultados naturais.\n\nO curso é indicado para profissionais que desejam ampliar seu portfólio em harmonização facial, compreendendo anatomia nasal, proporções estéticas, técnicas de aplicação avançadas e protocolos de segurança.\n\nDurante o curso, o aluno terá 100% prática em pacientes modelos, consolidando teoria e prática de forma completa.",
     "conteudo": " Módulo 1 – Fundamentos da Harmonização Nasal\n\n    Conceito de rinomodelação como alternativa não cirúrgica\n\n    Anatomia aplicada do nariz: estruturas ósseas, cartilaginosas e tecidos moles\n\n    Proporções estéticas nasais em diferentes perfis faciais\n\n    Alterações estruturais comuns e indicações para rinomodelação\n\n💉 Módulo 2 – Ácido Hialurônico em Rinomodelação\n\n    Propriedades físico-químicas do ácido hialurônico aplicadas ao nariz\n\n    Tipos de AH recomendados para diferentes pontos de aplicação\n\n    Reologia e critérios de escolha do produto\n\n    Preparação, armazenamento e assepsia no procedimento nasal\n\n🧠 Módulo 3 – Técnicas de Aplicação\n\n    Planejamento do perfil nasal: visão frontal, lateral e em ¾\n\n    Pontos estratégicos de aplicação: dorso, raiz, ponta e columela\n\n    Uso de agulhas versus cânulas: indicações e diferenças técnicas\n\n    Volumetria segura e ajuste de proporções\n\n⚠️ Módulo 4 – Segurança em Rinomodelação\n\n    Anatomia vascular crítica do nariz: áreas de alto risco\n\n    Principais complicações: necrose, oclusão vascular, perda visual\n\n    Protocolos de prevenção e conduta em emergências\n\n    Uso da hialuronidase em complicações nasais\n\n📖 Módulo 5 – Evidências Científicas e Protocolos\n\n    Revisão da literatura sobre rinomodelação com ácido hialurônico\n\n    Durabilidade dos resultados e manutenção\n\n    Protocolos clínicos baseados em proporções faciais\n\n    Personalização conforme sexo, etnia e expectativa estética\n\n💼 Módulo 6 – Prática Clínica Integrada\n\n    Discussão de casos clínicos de rinomodelação\n\n    Hands-on supervisionado em nariz\n\n    Fotografia padronizada antes e depois do procedimento\n\n    Construção de protocolos individuais de harmonização nasal",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -67,7 +67,7 @@ cursos = [
   {
     "curso": "Endolaser facial e corporal",
     "data": "07/12/2025",
-    "link": "https://www.even3.com.br/endolaser-facial-e-corporal-644501",
+    "link": "https://eventos.peleinstituto.com.br/endolaser-facial-e-corporal-644501",
     "sobre": "",
     "conteudo": "Anatomia facial e corporal.\n\nProtocolos facial e corporal.\n\nDiferença do laser 1470nm e 980nm.\n\nTecnologia a laser aplicada de forma interna (via fibra óptica inserida na pele).\n\nIndicações: flacidez, gordura localizada, retração da pele, lipólise.\n\nBenefícios: resultados rápidos, estimulação de colágeno e retração tecidual.\n\nTreinamento completo: inserção da fibra, dosagem de energia, segurança e cuidados pós-procedimento.",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -82,7 +82,7 @@ cursos = [
   {
     "curso": "Curso Toxina Botulínica",
     "data": "09/12/2025",
-    "link": "https://www.even3.com.br/curso-toxina-botulinica-644952",
+    "link": "https://eventos.peleinstituto.com.br/curso-toxina-botulinica-644952",
     "sobre": "O Curso de Toxina Botulínica é uma imersão completa, do básico ao avançado, que ensina técnicas precisas de aplicação para suavizar rugas dinâmicas e estáticas, prevenir envelhecimento e harmonizar o rosto.\n\nIdeal para profissionais que desejam dominar a toxina botulínica com segurança, técnica e resultados naturais, incluindo diferentes músculos faciais e protocolos preventivos e corretivos.\n\nO curso inclui 100% prática em pacientes modelos, garantindo aprendizado completo e aplicabilidade imediata.",
     "conteudo": "   Fundamentos da toxina botulínica tipo A\n\n    Anatomia facial e muscular aplicada\n\n    Rugas dinâmicas e rugas estáticas\n\n    Indicações\n\n    Reconstituição da Toxina Botulínica (seca e úmida)\n\n    Método de aplicação\n\n    Técnicas de aplicação para:\n    ▪ Músculo frontal\n    ▪ Brown lift\n    ▪ Músculo glabelar\n    ▪ Músculo orbicular dos olhos\n    ▪ Músculo nasal\n    ▪ Platisma\n    ▪ Linha da beleza\n    ▪ Sorriso gengival\n    ▪ Bruxismo\n    ▪ Mento e outros músculos da face\n\n    Diluição, reconstituição e armazenamento\n\n    Protocolos preventivos e corretivos\n\n    Cuidados pré e pós-aplicação\n\n    Intercorrências e condutas seguras",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -97,7 +97,7 @@ cursos = [
   {
     "curso": "Curso Bioestimuladores",
     "data": "10/12/2025",
-    "link": "https://www.even3.com.br/curso-bioestimuladores-651215",
+    "link": "https://eventos.peleinstituto.com.br/curso-bioestimuladores-651215",
     "sobre": "O Curso de Bioestimuladores Faciais é uma imersão completa que ensina técnicas avançadas de estimulação de colágeno com bioestimuladores, oferecendo resultados naturais, seguros e duradouros.\n\nO curso é indicado para profissionais que desejam ampliar seu portfólio em harmonização facial, diferenciando preenchimentos de bioestimulação, aplicando produtos com precisão e compreensão total da anatomia e fisiologia da pele.\n\nDurante o curso, o aluno terá 100% prática em pacientes modelos, consolidando teoria e prática de forma completa.",
     "conteudo": "   O que são bioestimuladores de colágeno\n\n    Indicações estéticas e clínicas\n\n    Diferença entre preenchimento e bioestimulação\n\n    Mecanismos de ação\n\n    Camadas da pele e plano de aplicação\n\n    PDRN (Bioremodelador)\n\n    Hidroxiapatita de Cálcio (CaHA)\n\n    Diluições possíveis (hiperdiluição e aplicação pura)\n\n    Técnicas de aplicação: vetorização, pontos de bolus, leque, malha\n\n    Poli-L-Láctico (PLLA)\n\n    Reconstituição correta e tempo de hidratação\n\n    Técnicas de aplicação por região\n\n    Cuidados pré e pós-procedimento\n\n    Comparativo entre CaHA x PLLA\n\n    Prática Clínica (Hands-On em pacientes modelos)",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -112,7 +112,7 @@ cursos = [
   {
     "curso": "Curso Fios de PDO facial",
     "data": "11/12/2025",
-    "link": "https://www.even3.com.br/curso-fios-de-pdo-facial-651253",
+    "link": "https://eventos.peleinstituto.com.br/curso-fios-de-pdo-facial-651253",
     "sobre": "O Curso de Fios de PDO oferece uma imersão completa no uso de fios de sustentação para harmonização facial, combinando bioestimulação e tração mecânica para resultados naturais e duradouros.\n\nO curso é indicado para profissionais que desejam dominar técnicas de lifting facial com fios, entender anatomia, selecionar o fio correto e aplicar protocolos seguros e personalizados.\n\nDurante o curso, o aluno terá 100% prática em pacientes modelos, garantindo aprendizado completo e aplicabilidade imediata.",
     "conteudo": "   Introdução ao uso dos fios de PDO na estética\n\n    Classificação dos fios: mono, screw, espiculado, moldado\n\n    Mecanismo de ação: bioestimulação x tração mecânica\n\n    Indicações e contraindicações\n\n    Perfis ideais de pacientes\n\n    Anatomia de superfície: referência para marcação\n\n    Escolha da técnica e do tipo de fio\n\n    Montagem de protocolo individualizado\n\n    Terço médio: maçã do rosto, sulco nasogeniano\n\n    Região mandibular: contorno\n\n    Submentoniana: papada\n\n    Região frontal: sobrancelhas\n\n    Região periorbital: olheiras e linhas finas\n\n    Como evitar intercorrências\n\n    Manejo de complicações: assimetrias, edema, dor, hematomas",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -127,7 +127,7 @@ cursos = [
   {
     "curso": "Curso Preenchimento Labial",
     "data": "12/12/2025",
-    "link": "https://www.even3.com.br/curso-preenchimento-labial-651610",
+    "link": "https://eventos.peleinstituto.com.br/curso-preenchimento-labial-651610",
     "sobre": "O Curso de Preenchimento Labial é uma imersão prática e objetiva voltada para profissionais que desejam dominar técnicas seguras e atuais de preenchimento labial, visando resultados naturais, simetria e satisfação do paciente.\nO aluno será capacitado para escolher produtos, planejar tratamentos e executar técnicas de contorno, volume e projeção, com ênfase em segurança vascular e manejo de intercorrências.\n\nDurante a imersão, o curso oferece 100% de prática em pacientes modelos, integrando teoria e hands-on para aplicação imediata na rotina clínica.",
     "conteudo": "    Anatomia e vascularização dos lábios (prevenção de necrose e complicações)\n\n    Tipos de ácido hialurônico e critérios para escolha do produto adequado\n\n    Indicações e contraindicações do procedimento\n\n    Técnicas de aplicação:\n    ▪ Técnica com cânula\n    ▪ Técnica com agulha\n    ▪ Técnicas para contorno, volume, projeção e correção de assimetrias\n\n    Anestesia local e manejo da dor\n\n    Prevenção e manejo de complicações (incluindo uso de hialuronidase)\n\n    Marketing, precificação e posicionamento do serviço na clínica",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
@@ -142,7 +142,7 @@ cursos = [
   {
     "curso": "Curso Preenchimento Corporal com Glúteo",
     "data": "13/12/2025",
-    "link": "https://www.even3.com.br/curso-preenchimento-corporal-com-gluteo-651561",
+    "link": "https://eventos.peleinstituto.com.br/curso-preenchimento-corporal-com-gluteo-651561",
     "sobre": "O Curso de Preenchimento Corporal com Glúteo é uma imersão prática e intensiva que ensina as técnicas mais seguras e eficazes de volumização corporal com ácido hialurônico, com resultados naturais e proporcionais.\n\nVoltado para profissionais que desejam dominar o preenchimento glúteo e corporal, o curso aborda desde os fundamentos do produto até protocolos exclusivos desenvolvidos para projeção, definição e harmonização do contorno corporal.\n\nCom 100% de prática em pacientes modelos, o aluno aprende na prática a aplicar com segurança e precisão as técnicas mais atuais do mercado.",
     "conteudo": " O que é o Ácido Hialurônico\n\n    Funções principais: hidratação, sustentação e volumização\n\n    Produto biocompatível e reabsorvível\n\n    Diferentes densidades e reticulações para aplicações específicas\n\n\n🍑 Volumização em Áreas Específicas\n\n    Glúteos\n\n    Hip Dip / Culote reverso\n\n    Peitoral\n\n    Abdomen\n\n    Quadríceps\n\n    Deltoide\n\n    Panturrilha\n\n\n💉 Técnicas de Aplicação\n\n    Utilização de cânulas ou agulhas específicas\n\n    Camadas de aplicação: subcutâneo profundo / derme\n\n    Técnicas combinadas com bioestimuladores\n\n    Protocolos seguros de volumização e definição corporal\n\n    Cuidados pré e pós-procedimento\n\n    Manejo de intercorrências",
     "cronograma": "    08h30 – 09h00: Credenciamento\n\n    09h00 – 12h30: Aula teórica\n\n    12h30 – 13h30: Intervalo / Almoço\n\n    13h30 – 18h00: Aula prática Hands-On",
